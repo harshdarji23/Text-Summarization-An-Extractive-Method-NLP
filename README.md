@@ -2,4 +2,4 @@
 
 Have you at any point condensed an extensive record into a short passage? To what extent did you take? Physically producing an outline can be tedious and repetitive. Programmed content synopsis guarantees to defeat such challenges and enable you to create the key thoughts in a bit of composing eﬀectively. Or have you ever tried the portable application inshorts? It’s an imaginative news application that changes over news articles into a 60-word rundown.What’s more, that is actually what we will realize in this project —Text Summarization.
 
-![alt text](https://raw.githubusercontent.com/harshdarji23/Text-Summarization-Using-Iterative-Approach-NLP-/download.jpg)
+![ScreenShot](https://https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2600%2F1*smS5CPcfzeJ8_R5qHUg_kA.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40sudeep89%2Fmaking-stories-searchable-a-case-study-9b77e76490&docid=XOB9WbXzgd8UlM&tbnid=54mN3XGOnZeHTM%3A&vet=10ahUKEwjdtqLglaniAhXHct8KHV6CAVIQMwhQKA8wDw..i&w=2048&h=1300&bih=706&biw=1536&q=inshorts%20app&ved=0ahUKEwjdtqLglaniAhXHct8KHV6CAVIQMwhQKA8wDw&iact=mrc&uact=8)
